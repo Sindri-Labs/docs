@@ -1,6 +1,6 @@
 # Rollkit Documentation Site
 
-Welcome to the official documentation repository for Rollkit.
+Welcome to the official documentation repository for [Rollkit](https://rollkit.dev/).
 
 Here you'll find comprehensive guides, tutorials, and reference materials to help you make the most out of Rollkit.
 
